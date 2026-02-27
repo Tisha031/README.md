@@ -1,6 +1,6 @@
-<div align="center">
+<div align="left">
 
-# Hi, I'm Tisha Jinger 👋
+# Hi, I'm Tisha Jinger 
 ### Backend Python Developer · API Architect · Data Pipeline Engineer
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Tisha031&color=blueviolet&style=flat-square)](https://github.com/Tisha031)
@@ -47,7 +47,7 @@ class Tisha:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<div align="left">
 
 **Languages**
 
@@ -113,7 +113,7 @@ class Tisha:
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<div align="left">
 
 ![Tisha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tisha031&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
